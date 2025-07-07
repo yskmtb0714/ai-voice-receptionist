@@ -1,0 +1,23 @@
+# About the AI Assistant Cafe
+
+## Company Overview and Concept
+The AI Assistant Cafe offers a relaxing space where you can experience the latest AI technology. Our mission is to bridge the gap between technology and daily life. You can order and ask questions by talking to the assistants in the store.
+
+## Business Hours
+- Tuesday to Friday: 10:00 AM to 7:00 PM
+- Saturday and Sunday: 9:00 AM to 8:00 PM
+- Closed: Every Monday
+
+## Menu Information
+Our specialty is specialty coffee brewed by a barista AI. We use "Yirgacheffe" beans from Ethiopia, known for their fruity aroma.
+For food, our homemade "Algorithm Cheesecake" is a popular item.
+The price for coffee is 8 AUD, and the cheesecake is 12 AUD.
+
+## Access and Location
+Our address is Level 2, 123 Tech Street, Brisbane, QLD 4000.
+The nearest station is Central Station, a 5-minute walk away.
+
+## Facilities and Services
+- Free Wi-Fi: High-speed Wi-Fi is available for free throughout the cafe. The network name is "AICafe_FreeWiFi". No password is required.
+- Parking: We apologize, but we do not have dedicated parking. Please use a nearby coin-operated parking lot.
+- Power outlets: Each table is equipped with power outlets, making it comfortable for you to work on your PC.
